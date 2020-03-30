@@ -6,7 +6,8 @@ namespace Traning
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hellobbb");
+          
+
         }
     }
 }
